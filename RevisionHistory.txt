@@ -10,6 +10,8 @@ To be informed of future releases of this document and other information about o
 ______________________________________________
 Revision history:
 
+Sept 27, 2001: Small code corrections, in particular to allow compilation under G++ 3.0.1.
+
 January 31, 2000: Added various corrections. Corrected some exercises. Changed from static const to the "enum hack" after conversations with Stroustrup and Koenig. This means that more of the examples will compile using VC++.
 
 January 18, 2000: Added syntax highlighting in HTML version, courtesy of Zafir Anjum. Minor corrections. Added CD ROM license agreement and instructions at end of book.
